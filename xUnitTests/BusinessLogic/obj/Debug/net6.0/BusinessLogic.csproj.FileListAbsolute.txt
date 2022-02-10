@@ -1,0 +1,13 @@
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/bin/Debug/net6.0/BusinessLogic.deps.json
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/bin/Debug/net6.0/BusinessLogic.dll
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/bin/Debug/net6.0/ref/BusinessLogic.dll
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/bin/Debug/net6.0/BusinessLogic.pdb
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/obj/Debug/net6.0/BusinessLogic.GlobalUsings.g.cs
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/obj/Debug/net6.0/BusinessLogic.csproj.AssemblyReference.cache
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/obj/Debug/net6.0/BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/obj/Debug/net6.0/BusinessLogic.AssemblyInfoInputs.cache
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/obj/Debug/net6.0/BusinessLogic.AssemblyInfo.cs
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/obj/Debug/net6.0/BusinessLogic.csproj.CoreCompileInputs.cache
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/obj/Debug/net6.0/BusinessLogic.dll
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/obj/Debug/net6.0/ref/BusinessLogic.dll
+/Users/willian/Projetos/TestFrameworks/xUnitTests/BusinessLogic/obj/Debug/net6.0/BusinessLogic.pdb
