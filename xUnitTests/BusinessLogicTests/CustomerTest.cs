@@ -27,5 +27,8 @@ public class CustomerTest
         //check if it throws the exception and the message properly
         Assert.Equal("The field FirstName is required", exception.Message);
     }
+
+    
+    
     
 }
